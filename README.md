@@ -24,8 +24,8 @@ commonly picked up by spotbugs.
 </reporting>
 ```
 
-2. Run `mvn compile site`.
+2. We ran `mvn compile site`.
 
-3. Check the generated report on `target/site/spotbugs.html`. What error patterns does it show?
+3. You can check the generated report on `target/site/spotbugs.html`. What error patterns does it show?
 
-4. Optional check what other errors can be detected by spotbugs on [their site](https://spotbugs.readthedocs.io/en/latest/bugDescriptions.html).
+4. Optional, you can check what other errors can be detected by spotbugs on [their site](https://spotbugs.readthedocs.io/en/latest/bugDescriptions.html).
